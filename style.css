@@ -1,0 +1,72 @@
+body{
+    text-align: center;
+    background-color: bisque;
+    margin-top: 80px;
+    justify-items: center;
+}
+.tag{
+    font-size: 65px;
+    font-weight: bolder;
+    margin-bottom: 25px;
+    color: rgb(238, 59, 24);
+}
+#count{
+    font-size: 40px;
+    margin-bottom: 25px;
+}
+#increment{
+    padding: 15px;
+    width: 250px;
+    background-color: rgb(59, 236, 59);
+    border-radius: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-size: 30px;
+    font-weight: light;
+}
+#increment:hover{
+   background-color:  rgb(197, 244, 197);;
+}
+#reset{
+    margin-top: 15px;
+    padding: 15px;
+    width: 250px;
+    background-color: rgb(59, 236, 59);
+    border-radius: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-size: 30px;
+    font-weight: light;
+}
+#reset:hover{
+    border: 1px solid green;
+}
+#data{
+    margin-top: 20px;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+#save{
+    margin-top: 20px;
+    padding: 15px;
+    width: 250px;
+    background-color: rgb(101, 117, 101);
+    border-radius: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-size: 30px;
+    font-weight: light;
+    color: wheat;
+}
+#save:hover{
+    background-color: rgb(160, 243, 160);
+    color: black;
+}
+#total{
+    margin-top: 10px;
+    padding: 15px;
+    width: 250px;
+    background-color: rgb(101, 117, 101);
+    border-radius: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-size: 30px;
+    font-weight: light;
+    color: wheat;
+}
